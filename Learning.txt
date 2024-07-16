@@ -1,0 +1,21 @@
+Sandbox Environemnt
+Hosted Environment
+
+
+
+Create a example code. A task to think for programmer.
+
+
+int[] ->  Dynamic Array
+
+
+
+https://learn.microsoft.com/en-us/training/modules/csharp-modify-content/4-exercise-remove-replace
+
+
+
+Composite formating -> foramtting with the help of string method
+String Interpolation -> Kind of like mutation
+Currency foramtting -> :C
+Number formatting -> :N
+Percentage formatting -> :N2 -> 2 is for number of decimals after . (dot)

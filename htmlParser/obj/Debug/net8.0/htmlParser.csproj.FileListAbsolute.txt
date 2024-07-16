@@ -1,0 +1,14 @@
+C:\Users\MYSQ\Desktop\C#\htmlParser\obj\Debug\net8.0\htmlParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MYSQ\Desktop\C#\htmlParser\obj\Debug\net8.0\htmlParser.AssemblyInfoInputs.cache
+C:\Users\MYSQ\Desktop\C#\htmlParser\obj\Debug\net8.0\htmlParser.AssemblyInfo.cs
+C:\Users\MYSQ\Desktop\C#\htmlParser\obj\Debug\net8.0\htmlParser.csproj.CoreCompileInputs.cache
+C:\Users\MYSQ\Desktop\C#\htmlParser\bin\Debug\net8.0\htmlParser.exe
+C:\Users\MYSQ\Desktop\C#\htmlParser\bin\Debug\net8.0\htmlParser.deps.json
+C:\Users\MYSQ\Desktop\C#\htmlParser\bin\Debug\net8.0\htmlParser.runtimeconfig.json
+C:\Users\MYSQ\Desktop\C#\htmlParser\bin\Debug\net8.0\htmlParser.dll
+C:\Users\MYSQ\Desktop\C#\htmlParser\bin\Debug\net8.0\htmlParser.pdb
+C:\Users\MYSQ\Desktop\C#\htmlParser\obj\Debug\net8.0\htmlParser.dll
+C:\Users\MYSQ\Desktop\C#\htmlParser\obj\Debug\net8.0\refint\htmlParser.dll
+C:\Users\MYSQ\Desktop\C#\htmlParser\obj\Debug\net8.0\htmlParser.pdb
+C:\Users\MYSQ\Desktop\C#\htmlParser\obj\Debug\net8.0\htmlParser.genruntimeconfig.cache
+C:\Users\MYSQ\Desktop\C#\htmlParser\obj\Debug\net8.0\ref\htmlParser.dll

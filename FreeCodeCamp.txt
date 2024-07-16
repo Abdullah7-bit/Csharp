@@ -1,0 +1,8 @@
+Module One:
+First APP Hello world
+
+Notes:
+The parentheses are known as the method invocation operator.
+
+To get single Back Slash in print statement while targeting directory.
+Console.WriteLine("c:\\source\\repos");

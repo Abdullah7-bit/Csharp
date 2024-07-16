@@ -1,0 +1,11 @@
+When to use type casting can be answered by asking the following 2 questions:
+
+Is it possible, depending on the value, that attempting to change the value's data type would throw an exception at run time?
+Is it possible, depending on the value, that attempting to change the value's data type would result in a loss of information?
+
+
+string -> int (not safe conversion)
+int -> string (safe conversion)
+
+
+The term "widening conversion" means that you're attempting to convert a value from a data type that could hold less information to a data type that can hold more information. In this case, a value stored in a variable of type int converted to a variable of type decimal, doesn't lose information.
